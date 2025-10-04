@@ -4,6 +4,8 @@ BrodBoost-C is a breadboard power supply that connects via USB Type-C and delive
 
 BrodBoost-C is a project of Axiometa, information available on the [website](https://www.axiometa.io/products/brodboost-c-breadboard-power-supply).
 
+Or for sale on [MOUSER](https://eu.mouser.com/ProductDetail/Axiometa/AXMT-PRH0001?qs=jcD%2FCkGBYeNYWQw4TTxphQ%3D%3D).
+
 ![Breadboost-C_169_WHITE](https://github.com/user-attachments/assets/59b5c114-ff39-4866-92a3-557cc846a3fc)
 
 # Overview
